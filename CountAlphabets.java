@@ -23,5 +23,7 @@ public class CountAlphabets {
         System.out.println("LowerCase letters : "+lower);
         System.out.println("Digits : "+digit);
         System.out.println("Special Symbols : "+special);
+
+        sc.close();
     }
 }
